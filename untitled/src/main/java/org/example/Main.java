@@ -20,6 +20,7 @@ public class Main {
             System.out.println(newVar);
             System.out.println("new login line");
             System.out.println("changes from test2");
+            System.out.println("new changes from main");
         }
     }
 }
