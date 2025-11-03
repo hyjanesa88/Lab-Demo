@@ -14,6 +14,10 @@ public class Main {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             IO.println("i = " + i);
+            System.out.println("Hello World");
+            System.out.println("i = " + i);
+            var newVar = 29;
+            System.out.println(newVar);
         }
     }
 }
