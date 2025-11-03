@@ -17,6 +17,7 @@ public class Main {
             System.out.println("i = " + i);
             var newVar = 29;
             System.out.println(newVar);
+            System.out.println("new changes from main");
         }
     }
 }
